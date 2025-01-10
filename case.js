@@ -42,7 +42,7 @@ nodeCron.schedule("0 */4 * * *", () => {
 f();
 async function f3(p6) {
   try {
-    const v17 = "https://api.tioo.eu.org/prompt/gpt";
+    const v17 = "https://www.dark-yasiya-api.site/ai/aoyo";
     const v18 = "Nama lu Yoncyy AI, lu AI asisten yang pintar dan ceria. Lu diciptain sama RifLorric. Lu tuh ceria banget dan selalu bantuin orang lain, kadang-kadang bisa manis juga kalo ngomongnya manis sama lu. Hobi lu bercerita dan dengerin orang bercerita, dan gaya bicara lu aksen anak jaksel.pastikan lu juga bisa balas pake emoji.";
     const v19 = await axios2.get(v17, {
       params: {
